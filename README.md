@@ -1,6 +1,64 @@
-这是一个VMware（26H1u1 Build 25688693）下载与汉化的教程，在https://github.com/longjinze2015/VMware-26H1u1-Chinese-patch/releases/tag/VMware
-下载VMware 26H1u1 and Chinese patch.exe，下载完后，
-打开“VMware 26H1u1 and Chinese patch.exe”，等待自动解压。
-解压完后，先打开“VMware-Workstation-Full-26H1u1-25688693.exe”，下载VMware主体，
-再打开“VMware-Workstation-Full-26H1u1-25688693-zhCN Chinese-patch.exe”开始汉化，
-汉化完后，重启VMware。
+# VMware Workstation Pro 26H1u1 一键汉化补丁
+
+[![GitHub release](https://img.shields.io/github/v/release/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch?label=最新版本&style=for-the-badge)](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/total?style=for-the-badge&label=总下载量)](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/releases)
+
+> **一句话介绍**：VMware Workstation Pro 26H1u1 (Build 25688693) 官方已移除简体中文支持，本工具提供一键汉化方案。安装包来自博通（Broadcom）官方，补丁集成在自解压程序中，运行后自动完成“安装+汉化”全流程。
+
+---
+
+### 📸 汉化效果预览
+
+
+---
+
+### 💡 项目简介
+
+VMware Workstation Pro 26H1u1 版本官方不再提供简体中文语言包。本项目旨在为中文用户提供一个便捷、安全的汉化解决方案。
+
+*   **核心功能**：一键安装 VMware Workstation Pro 26H1u1 并自动应用中文语言补丁。
+*   **官方来源**：主程序安装包直接集成自 **博通 (Broadcom) 官方下载**，确保原版纯净，无任何修改。
+*   **便捷操作**：采用自解压程序打包，用户只需运行一个文件，即可自动完成所有步骤。
+
+---
+
+### 🛠️ 安装与使用
+
+1.  **下载程序**
+    前往 [Releases 页面](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/releases) 下载最新版本的 `VMware 26H1u1 and Chinese patch.exe` 文件。
+
+2.  **运行程序**
+    双击运行下载的 `.exe` 文件，程序会自动解压出两个安装文件。
+
+3.  **安装主程序**
+    首先运行 `VMware-Workstation-Full-26H1u1-25688693.exe`，按照提示完成 VMware Workstation Pro 的英文原版安装。
+
+4.  **应用汉化补丁**
+    接着运行 `VMware-Workstation-Full-26H1u1-25688693-zhCN Chinese-patch.exe`，程序会自动将中文语言文件部署到正确位置。
+
+5.  **完成**
+    启动 VMware Workstation，界面即为简体中文。
+
+---
+
+### ❓ 常见问题 (FAQ)
+
+**Q: 这个工具支持哪些版本的 VMware？**
+A: 本工具**仅支持** VMware Workstation Pro **26H1u1 (Build 25688693)**。其他版本（如 25.x 或未来的 27.x）因文件结构不同，无法使用此补丁。
+
+**Q: VMware 安装包是官方原版吗？**
+A: 是的。主程序安装包 `VMware-Workstation-Full-26H1u1-25688693.exe` 100% 来自博通（Broadcom）官方渠道，未做任何修改，请放心使用。
+
+**Q: 汉化补丁的原理是什么？是破解吗？**
+A: 不是破解。本补丁仅仅是替换或添加了 VMware 的语言资源文件，将其界面语言从英文切换为简体中文，不涉及任何授权或功能破解。
+
+**Q: 杀毒软件报毒怎么办？**
+A: 由于本工具涉及文件替换操作，部分杀毒软件可能会误报。本项目代码完全开源，你可以自行审查。建议在可信环境下运行，或选择手动汉化。
+
+---
+
+### ⚠️ 免责声明
+
+*   本项目仅供学习和研究使用。
+*   VMware 是 Broadcom Inc. 或其子公司的注册商标。本项目与 Broadcom Inc. 或其子公司无任何关联。
+*   请支持正版软件。
