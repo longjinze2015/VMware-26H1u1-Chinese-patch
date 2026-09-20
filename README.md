@@ -1,5 +1,5 @@
 This is a .zip self-extracting program. 
-Download it from Releases. 
+Download it from . 
 After downloading, 
 open “VMware 26H1u1 and Chinese patch.exe”, it will automatically extract. 
 First, open “VMware-Workstation-Full-26H1u1-25688693.exe”, 
