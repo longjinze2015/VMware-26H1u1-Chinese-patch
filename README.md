@@ -27,18 +27,23 @@ VMware Workstation Pro 26H1u1 版本官方不再提供简体中文语言包。�
 
 1.  **下载程序**
     前往 [Releases 页面](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/releases) 下载最新版本的 `VMware 26H1u1 and Chinese patch.exe` 文件。
+<img width="512" height="128" alt="图片" src="https://github.com/user-attachments/assets/47f3d41a-afa6-458a-8462-b4f630d2d6ac" />
 
-2.  **运行程序**
+3.  **运行程序**
     双击运行下载的 `.exe` 文件，程序会自动解压出两个安装文件。
+<img width="476" height="184" alt="图片" src="https://github.com/user-attachments/assets/4ebde8e6-9c00-41a9-bce7-3dafa7cb6f3c" />
 
-3.  **安装主程序**
+4.  **安装主程序**
     首先运行 `VMware-Workstation-Full-26H1u1-25688693.exe`，按照提示完成 VMware Workstation Pro 的英文原版安装。
+<img width="341" height="34" alt="图片" src="https://github.com/user-attachments/assets/244bdd83-bd44-4360-a600-dd6621ad418b" />
 
-4.  **应用汉化补丁**
+5.  **应用汉化补丁**
     接着运行 `VMware-Workstation-Full-26H1u1-25688693-zhCN Chinese-patch.exe`，程序会自动将中文语言文件部署到正确位置。
+<img width="460" height="34" alt="图片" src="https://github.com/user-attachments/assets/cdd3f439-479e-4794-8fbc-4ef4f3397bb9" />
 
-5.  **完成**
+6.  **完成**
     启动 VMware Workstation，界面即为简体中文。
+<img width="841" height="525" alt="屏幕截图 2026-09-20 193532" src="https://github.com/user-attachments/assets/210b979a-ade1-45ff-a9bd-0690dea6fb4c" />
 
 ---
 
