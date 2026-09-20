@@ -8,11 +8,12 @@
 ---
 
 ### 📸 汉化效果预览
-![Uploading 屏幕截图 2026-09-20 193532.jpg…]()
+<img width="841" height="525" alt="屏幕截图 2026-09-20 193532" src="https://github.com/user-attachments/assets/8edc0c0c-6d17-4038-a095-ac3cf497d925" />
 
 ---
 
 ### 💡 项目简介
+
 
 VMware Workstation Pro 26H1u1 版本官方不再提供简体中文语言包。本项目旨在为中文用户提供一个便捷、安全的汉化解决方案。
 
