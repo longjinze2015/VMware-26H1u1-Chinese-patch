@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch?label=最新版本&style=for-the-badge)](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/total?style=for-the-badge&label=总下载量)](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/releases)
 
-> **一句话介绍**：VMware Workstation Pro 26H1u1 (Build 25688693) 官方已移除简体中文支持，本工具提供一键汉化方案。安装包来自博通（Broadcom）官方，补丁集成在自解压程序中，运行后自动完成“安装+汉化”全流程。
+>VMware Workstation Pro 26H1u1 (Build 25688693) 官方已移除简体中文支持，本工具提供一键汉化方案。安装包来自博通（Broadcom）官方，补丁集成在自解压程序中，运行后自动完成“安装+汉化”全流程。
 
 ---
 
