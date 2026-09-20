@@ -8,6 +8,7 @@
 ---
 
 ### 📸 汉化效果预览
+已在本机Windows 11 家庭版 中文版25H2测试过，没有任何问题。
 <img width="841" height="525" alt="屏幕截图 2026-09-20 193532" src="https://github.com/user-attachments/assets/8edc0c0c-6d17-4038-a095-ac3cf497d925" />
 
 ---
